@@ -1,0 +1,131 @@
+[{
+    "id": 1,
+    "title": "Research and Development",
+    "instructor": "Libbey McCreery",
+    "Institution_name": "University of Music and Fine Arts",
+    "enroll_students": 609,
+    "price": 13,
+    "imageUrl": "http://placeimg.com/300/200/arch",
+    "description": "This course is designed to provide students with a comprehensive understanding of the research and development process. The course will cover the key stages of the research and development process, including the identification of research questions, the design of research studies, the collection and analysis of data, and the interpretation and communication of research findings. The course will also explore the role of research and development in the context of the wider business environment, and the importance of research and development in driving innovation and growth. By the end of the course, students will have a solid understanding of the research and development process, and will be able to apply this knowledge to their own research projects."
+  }, {
+    "id": 2,
+    "title": "Support & Maintenance",
+    "instructor": "Mike Serris",
+    "Institution_name": "Nanjing University of Technology",
+    "enroll_students": 101,
+    "price": 17,
+    "imageUrl": "http://placeimg.com/300/200/tech",
+    "description": "This course is designed to provide students with a comprehensive understanding of the support and maintenance process. The course will cover the key stages of the support and maintenance process, including the identification of support and maintenance requirements, the design of support and maintenance plans, the implementation of support and maintenance activities, and the evaluation of support and maintenance outcomes. The course will also explore the role of support and maintenance in the context of the wider business environment, and the importance of support and maintenance in ensuring the ongoing success of an organization. By the end of the course, students will have a solid understanding of the support and maintenance process, and will be able to apply this knowledge to their own support and maintenance projects."
+  }, {
+    "id": 3,
+    "title": "Sales & Marketing",
+    "instructor": "Mona Stripp",
+    "Institution_name": "Atilim University",
+    "enroll_students": 134,
+    "price": 94,
+    "imageUrl": "http://placeimg.com/300/200/people",
+    "description": "This course is designed to provide students with a comprehensive understanding of the sales and marketing process. The course will cover the key stages of the sales and marketing process, including the identification of target markets, the development of marketing strategies, the implementation of sales and marketing activities, and the evaluation of sales and marketing outcomes. The course will also explore the role of sales and marketing in the context of the wider business environment, and the importance of sales and marketing in driving revenue and growth. By the end of the course, students will have a solid understanding of the sales and marketing process, and will be able to apply this knowledge to their own sales and marketing projects."
+  }, {
+    "id": 4,
+    "title": "Legal Counseling",
+    "instructor": "Ken Gillam",
+    "Institution_name": "Avondale College",
+    "enroll_students": 656,
+    "price": 74,
+    "imageUrl": "http://placeimg.com/300/200/tech",
+    "description": "This course is designed to provide students with a comprehensive understanding of the legal counseling process. The course will cover the key stages of the legal counseling process, including the identification of legal issues, the development of legal strategies, the implementation of legal activities, and the evaluation of legal outcomes. The course will also explore the role of legal counseling in the context of the wider business environment, and the importance of legal counseling in ensuring compliance with legal requirements. By the end of the course, students will have a solid understanding of the legal counseling process, and will be able to apply this knowledge to their own legal counseling projects."
+  }, {
+    "id": 5,
+    "title": "Graphics Design",
+    "instructor": "Malvina Glason",
+    "Institution_name": "Art Center College of Design",
+    "enroll_students": 215,
+    "price": 34,
+    "imageUrl": "http://placeimg.com/300/200/nature",
+    "description": "This course is designed to provide students with a comprehensive understanding of the graphics design process. The course will cover the key stages of the graphics design process, including the identification of design requirements, the development of design concepts, the implementation of design activities, and the evaluation of design outcomes. The course will also explore the role of graphics design in the context of the wider business environment, and the importance of graphics design in driving brand awareness and engagement. By the end of the course, students will have a solid understanding of the graphics design process, and will be able to apply this knowledge to their own graphics design projects."
+  }, {
+    "id": 6,
+    "title": "Accounting",
+    "instructor": "Idalia Alldridge",
+    "Institution_name": "Technical University of Denmark",
+    "enroll_students": 333,
+    "price": 67,
+    "imageUrl": "http://placeimg.com/300/200/arch",
+    "description": "This course is designed to provide students with a comprehensive understanding of the accounting process. The course will cover the key stages of the accounting process, including the identification of financial transactions, the recording of financial data, the preparation of financial statements, and the analysis of financial performance. The course will also explore the role of accounting in the context of the wider business environment, and the importance of accounting in ensuring the financial health of an organization. By the end of the course, students will have a solid understanding of the accounting process, and will be able to apply this knowledge to their own accounting projects."
+  }, {
+    "id": 7,
+    "title": "Web Development",
+    "instructor": "Tiebout Fysh",
+    "Institution_name": "Belarusian-Russian University",
+    "enroll_students": 526,
+    "price": 92,
+    "imageUrl": "http://placeimg.com/300/200/tech",
+    "description": "This course is designed to provide students with a comprehensive understanding of the web development process. The course will cover the key stages of the web development process, including the identification of web development requirements, the design of web development projects, the implementation of web development activities, and the evaluation of web development outcomes. The course will also explore the role of web development in the context of the wider business environment, and the importance of web development in driving online presence and engagement. By the end of the course, students will have a solid understanding of the web development process, and will be able to apply this knowledge to their own web development projects."
+  }, {
+    "id": 8,
+    "title": "Islamic Studies",
+    "instructor": "Codi Karadzas",
+    "Institution_name": "Islamic Azad University",
+    "enroll_students": 334,
+    "price": 26,
+    "imageUrl": "http://placeimg.com/300/200/nature",
+    "description": "This course is designed to provide students with a comprehensive understanding of Islamic studies. The course will cover the key aspects of Islamic studies, including the history of Islam, the teachings of the Quran, the practices of the Prophet Muhammad, and the development of Islamic law. The course will also explore the role of Islamic studies in the context of the wider Muslim community, and the importance of Islamic studies in promoting peace and understanding. By the end of the course, students will have a solid understanding of Islamic studies, and will be able to apply this knowledge to their own studies of Islam."
+  }, {
+    "id": 9,
+    "title": "Business Management",
+    "instructor": "Camila Blackeby",
+    "Institution_name": "Omdurman Islamic University",
+    "enroll_students": 834,
+    "price": 28,
+    "imageUrl": "http://placeimg.com/300/200/arch",
+    "description": "This course is designed to provide students with a comprehensive understanding of the business management process. The course will cover the key stages of the business management process, including the identification of business goals, the development of business strategies, the implementation of business activities, and the evaluation of business outcomes. The course will also explore the role of business management in the context of the wider business environment, and the importance of business management in driving growth and success. By the end of the course, students will have a solid understanding of the business management process, and will be able to apply this knowledge to their own business management projects." 
+  }, {
+    "id": 10,
+    "title": "Data Mining",
+    "instructor": "Symon Brigg",
+    "Institution_name": "Soran University",
+    "enroll_students": 361,
+    "price": 38,
+    "imageUrl": "http://placeimg.com/300/200/tech",
+    "description": "This course is designed to provide students with a comprehensive understanding of the data mining process. The course will cover the key stages of the data mining process, including the identification of data sources, the collection and analysis of data, the development of data mining models, and the interpretation of data mining results. The course will also explore the role of data mining in the context of the wider business environment, and the importance of data mining in driving data-driven decision making. By the end of the course, students will have a solid understanding of the data mining process, and will be able to apply this knowledge to their own data mining projects." 
+  }, {
+    "id": 11,
+    "title": "Neurology & Science",
+    "instructor": "Joel Gullis",
+    "Institution_name": "Kerman University of Medical Sciences",
+    "enroll_students": 801,
+    "price": 24,
+    "imageUrl": "http://placeimg.com/300/200/animals"
+  }, {
+    "id": 12,
+    "title": "Machine Learning",
+    "instructor": "Chuck Bazoge",
+    "Institution_name": "Brevard College",
+    "enroll_students": 442,
+    "price": 49,
+    "imageUrl": "http://placeimg.com/300/200/tech"
+  }, {
+    "id": 13,
+    "title": "UI/UX Design",
+    "instructor": "Mada Chelnam",
+    "Institution_name": "Andong National University",
+    "enroll_students": 595,
+    "price": 100,
+    "imageUrl": "http://placeimg.com/300/200/nature"
+  }, {
+    "id": 14,
+    "title": "Artificial Intelligence",
+    "instructor": "Glenna D'Onisi",
+    "Institution_name": "College of Technology at Jeddah",
+    "enroll_students": 271,
+    "price": 75,
+    "imageUrl": "http://placeimg.com/300/200/tech"
+  }, {
+    "id": 15,
+    "title": "International Relationship",
+    "instructor": "Willyt Padwick",
+    "Institution_name": "Brussels Management School (ICHEC)",
+    "enroll_students": 423,
+    "price": 88,
+    "imageUrl": "http://placeimg.com/300/200/people"
+  }]
