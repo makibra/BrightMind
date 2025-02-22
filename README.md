@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# BrightMind - Plateforme e-Learning
 
-## Getting Started
+BrightMind est une plateforme d'e-learning complète permettant aux enseignants de proposer, créer et gérer des cours, tandis que les étudiants peuvent acheter et suivre ces formations en ligne. La plateforme est disponible sous forme d'un site web et d'une application mobile Android.
 
-First, run the development server:
+## 📌 Fonctionnalités principales
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### 🎓 Pour les enseignants
+- Création et gestion des cours (ajout de vidéos, documents, quiz, etc.)
+- Suivi des inscriptions et des performances des étudiants
+- Interaction avec les étudiants via des forums ou des sessions de Q&A
+
+### 👨‍🎓 Pour les étudiants
+- Achat et accès aux cours en ligne
+- Progression et suivi des modules complétés
+- Participation aux forums et interaction avec les enseignants
+
+### 👤 Pour les invités
+- Consultation des cours disponibles
+- Accès limité aux ressources publiques
+
+### 🔍 Pour les administrateurs
+- Gestion des utilisateurs (étudiants, enseignants, invités)
+- Analyse des statistiques (profits, popularité des cours, ventes, etc.)
+
+## 🚀 Technologies utilisées
+- **Frontend Web** : React.js
+- **Application Mobile** : Android (Java/Kotlin)
+- **Backend** : Node.js avec Express
+- **Base de données** : MongoDB
+- **Authentification** : Firebase Auth
+
+## 📂 Structure du projet
+```
+BrightMind/
+├── backend/        # API et gestion des données
+├── frontend/       # Interface utilisateur web (React.js)
+├── mobile/         # Application Android (Java/Kotlin)
+├── docs/           # Documentation du projet
+└── README.md       # Présentation du projet
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📖 Installation & Exécution
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🔧 Prérequis
+- Node.js installé
+- MongoDB installé
+- Android Studio (pour l'application mobile)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 🖥️ Installation
+```bash
+# Cloner le projet
+git clone https://github.com/ton-utilisateur/BrightMind.git
+cd BrightMind
 
-## Learn More
+# Installation des dépendances Backend
+cd backend
+npm install
 
-To learn more about Next.js, take a look at the following resources:
+# Installation des dépendances Frontend
+cd ../frontend
+npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Installation des dépendances Mobile
+cd ../mobile
+gradlew build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### ▶️ Lancer l'application
+```bash
+# Démarrer le backend
+cd backend
+npm start
 
-## Deploy on Vercel
+# Démarrer le frontend
+cd ../frontend
+npm start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Auteurs
+- **Ibrahim Makhlouf**  
+- **BRAHMI Mouad**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🏆 Licence
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
